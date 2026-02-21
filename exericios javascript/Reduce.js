@@ -11,7 +11,7 @@ console.log("Array original:", numeros);
 
 let soma = numeros.reduce(function(acumulado, numero){
     return acumulador + numero;
-},0;
+},0);
 
 console.log("soma total : ",soma);
 
